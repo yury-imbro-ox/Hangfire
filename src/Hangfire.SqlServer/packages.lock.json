@@ -1395,7 +1395,7 @@
       "hangfire.core": {
         "type": "Project",
         "dependencies": {
-          "Cronos": "[0.8.3, )",
+          "Cronos": "[0.8.2, )",
           "LibLog": "[1.5.0, )",
           "Microsoft.CSharp": "[4.4.0, )",
           "Microsoft.CodeAnalysis.NetAnalyzers": "[9.0.0, )",
